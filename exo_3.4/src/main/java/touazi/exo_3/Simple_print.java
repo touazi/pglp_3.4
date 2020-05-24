@@ -1,10 +1,10 @@
 package touazi.exo_3;
-
-public class Simple_print  implements PRINT{
-
-	public void print() {
-		// TODO Auto-generated method stub
-		
-	}
-
+/**
+ * la class COPPY.
+ * @author lylia touazi*/
+public class Simple_print  implements PRINT {
+/**methode print.*/
+public void print() {
+// TODO Auto-generated method stub
+}
 }
